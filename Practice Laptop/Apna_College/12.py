@@ -1,0 +1,5 @@
+tup=(1,43,56,75,78,54)
+print(type(tup))
+print(tup)
+print(tup[2])
+print(tup[4])
