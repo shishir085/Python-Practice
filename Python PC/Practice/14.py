@@ -1,3 +1,4 @@
+
 # count students with grade "A" in tuple
 
 tup=("C","D","A","A","B","B","A")
