@@ -1,3 +1,4 @@
+
 # check if a list is palindorome or not
 list1=[1,2,1]
 
