@@ -1,4 +1,5 @@
 
+
 #  tuples in python
 
 tup=(1,56,65,"hello", 22, "world !")
